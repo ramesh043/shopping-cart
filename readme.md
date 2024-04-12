@@ -3,7 +3,7 @@
 ### It is Shopping Cart Website
 
 This project was created to focus on working with the DOM, events, state, local storage and other fundamentals of JavaScript.
-### [live demo You can Check Here](https://shopping-list-note.netlify.app/)
+### [live demo You can Check Here] <a href="https://shopping-list-note.netlify.app/">👉 Shopping Cart</a>
 <img src="images/screen.png" width="400">
 
 ### this is html Code For Your reference
