@@ -5,8 +5,9 @@
 This project was created to focus on working with the DOM, events, state, local storage and other fundamentals of JavaScript.
 ### [live demo You can Check Here](https://shopping-list-note.netlify.app/)
 <img src="images/screen.png" width="400">
-```html
+
 ### this is html Code For Your reference
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
